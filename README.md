@@ -1,4 +1,4 @@
-# Index
+# Home
 
 ### Content
 
