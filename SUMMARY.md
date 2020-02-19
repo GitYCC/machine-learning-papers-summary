@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Outline](README.md)
+* [Index](README.md)
 
 ## Understanding / Generalization / Transfer
 

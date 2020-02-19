@@ -1,5 +1,7 @@
 # Distilling the knowledge in a neural network \(2015\), G. Hinton et al.
 
+\[[paper](http://arxiv.org/pdf/1503.02531)\] 
+
 * latency and computational resources are very important in deployment stage
 * cumbersome model
   * ensemble of separately trained models
@@ -33,21 +35,25 @@
 
       weighted average of two different object function
 
-      * $C\_1$ from trained cumbersome model in high temperature
-      * $C\_2$ from real labels with normal cross entropy
+      * $$C_1$$ from trained cumbersome model in high temperature
+      * $$C_2$$ from real labels with normal cross entropy
       * "smaller weight of object\_function\_2" is better
-      * $loss=C\_1T^2+\alpha C\_2$ \(why $T^2$? explain later\)
+      * $$loss=C_1T^2+\alpha C_2$$  \(why $$T^2$$ ? explain later\)
 
-    * $C\_2=\sum\_i \(-y\_iln\(q\_i\)-\(1-y\_i\)ln\(1-q\_i\)\)$
-      * gradient:
+    * $$C_2=\sum_i (-y_iln(q_i)-(1-y_i)ln(1-q_i))$$ 
 
-        $$
-        \frac{\partial C_2}{\partial z_i}=\frac{1}{T}(q_i-y_i)
-        $$
-    * $C\_1=\sum\_i \(-p\_iln\(q\_i\)-\(1-p\_i\)ln\(1-q\_i\)\)$
-      * $p\_i=exp{v\_i}/\sum\_j exp{v\_j}$ from cumbersome model
-      * $\frac{\partial C\_1}{\partial z\_i}=\frac{1}{T}\(q\_i-p\_i\)$
-      * considering high temperature and zero-meaned sperately: $\frac{\partial C\_1}{\partial z\_i}=\frac{1}{NT^2}\(z\_i-v\_i\)$
-      * equivalent: $C\_1\approx \frac{1}{NT^2}\sum\frac{1}{2}\(z\_i-v\_i\)^2$
-    * $C\_1T^2$ ensures that the relative contributions of the hard and soft targets remain roughly unchanged if the temperature used for distillation is changed while experimenting with meta-parameters
+      * gradient: 
+
+             $$\frac{\partial C_2}{\partial z_i}=\frac{1}{T}(q_i-y_i)$$ 
+
+    * $$C_1=\sum_i (-p_iln(q_i)-(1-p_i)ln(1-q_i))$$ 
+      * $$p_i=exp\{v_i\}/\sum_j exp\{v_j\}$$ from cumbersome model
+      * $$\frac{\partial C_1}{\partial z_i}=\frac{1}{T}(q_i-p_i)$$ 
+      * considering high temperature and zero-meaned sperately: $$\frac{\partial C_1}{\partial z_i}=\frac{1}{NT^2}(z_i-v_i)$$ 
+      * equivalent: $$C_1\approx \frac{1}{NT^2}\sum\frac{1}{2}(z_i-v_i)^2$$ 
+    * $$C_1T^2$$ ensures that the relative contributions of the hard and soft targets remain roughly unchanged if the temperature used for distillation is changed while experimenting with meta-parameters
+* Experiments
+  * 
+
+![](../.gitbook/assets/screenshot.png)
 
