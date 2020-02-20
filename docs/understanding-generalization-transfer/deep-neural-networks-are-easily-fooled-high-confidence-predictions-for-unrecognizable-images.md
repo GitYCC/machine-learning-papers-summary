@@ -70,8 +70,3 @@ Evolving regular images to match ImageNet
 **Reference**
 
 * [http://www.evolvingai.org/fooling](http://www.evolvingai.org/fooling)
-
-
-
-{% page-ref page="deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images.md" %}
-
