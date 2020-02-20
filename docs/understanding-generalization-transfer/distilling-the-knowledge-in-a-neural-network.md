@@ -20,16 +20,15 @@
   * e.g. you could randomly remove one class in MNIST. it still works
 * use temperature to increase entropy of soft targets
   * softmax:
-
     $$
     q_i=exp\{z_i\}/\sum_j exp\{z_j\}
     $$
 
   * softmax with temperature
-
     $$
     q_i=exp\{z_i/T\}/\sum_j exp\{z_j/T\}
     $$
+
 * method
   * Pretrained cumbersome model
   * Train distilled model
@@ -40,12 +39,12 @@
 
       weighted average of two different object function
 
-      * $$C_1$$ from trained cumbersome model in high temperature
-      * $$C_2$$ from real labels with normal cross entropy
+      * $C_1$ from trained cumbersome model in high temperature
+      * $C_2$ from real labels with normal cross entropy
       * "smaller weight of object\_function\_2" is better
-      * $$loss=C_1T^2+\alpha C_2$$  \(why $$T^2$$ ? explain later\)
+      * $loss=C_1T^2+\alpha C_2$  \(why $T^2$ ? explain later\)
 
-    * $$C_2=\sum_i (-y_iln(q_i)-(1-y_i)ln(1-q_i))$$ 
+    * $C_2=\sum_i (-y_iln(q_i)-(1-y_i)ln(1-q_i))$ 
 
       * gradient: 
         $$
