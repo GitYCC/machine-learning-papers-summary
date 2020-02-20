@@ -63,7 +63,7 @@
   * For the distillation we tried temperatures of 1,2,5,10 and used a relative weight of 0.5 on the cross-entropy for the hard targets.
   * evaluation: frame accuaracy \(sample frames with time-box\) and word error rate \(WER\)
 
-![](assets/screenshot%20%281%29.png)
+![](assets/distilling-the-knowledge-in-a-neural-network_001.png)
 
 * soft targets as regularizers
   * One of our main claims about using soft targets instead of hard targets is that a lot of helpful infor- mation can be carried in soft targets that could not possibly be encoded with a single hard target.
