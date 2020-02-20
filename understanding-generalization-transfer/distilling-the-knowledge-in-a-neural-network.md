@@ -1,4 +1,8 @@
-# Distilling the knowledge in a neural network \(2015\), G. Hinton et al.
+---
+description: 'Distilling the knowledge in a neural network (2015), G. Hinton et al.'
+---
+
+# Distilling the knowledge in a neural network
 
 \[[paper](http://arxiv.org/pdf/1503.02531)\] 
 
