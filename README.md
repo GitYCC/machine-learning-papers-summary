@@ -22,7 +22,66 @@ Reading papers is important because ML/DL/AI is the field of continuous innovati
 - **Visualizing and understanding convolutional networks** \(2014\), M. Zeiler and R. Fergus \[[paper](http://arxiv.org/pdf/1311.2901)\]
 - **Decaf: A deep convolutional activation feature for generic visual recognition** \(2014\), J. Donahue et al. \[[paper](http://arxiv.org/pdf/1310.1531)\]
 
+#### Optimization / Training Techniques
+
+
+
+#### Unsupervised / Generative Models
+
+
+
+#### Convolutional Neural Network Models
+
+
+
+#### Image: Segmentation / Object Detection
+
+
+
+#### Image / Video / Etc
+
+
+
+#### Natural Language Processing / RNNs
+
+
+
+#### Speech / Other Domain
+
+
+
+#### Reinforcement Learning / Robotics
+
+
+
 ### Contributors
 
 -  [@GitYCC](https://github.com/GitYCC) \[website: [www.ycc.idv.tw](https://www.ycc.idv.tw), email: [ycc.tw.email@gmail.com](mailto:%20ycc.tw.email@gmail.com)\]
+
+
+
+Welcome to contribute this repo. together.
+
+### Contribution Rules
+
+- Please use pull-request to merge new changes into `master` branch
+
+- Add new article
+
+  - In `README.md`, choose or create a category, add new paper item (sorted by years decreasing) and add link `[➤ summary]` to your new article.
+
+  - In `summary.md`, add path of your article into sidebar.
+
+  - Please follow this file structure:
+
+    ```
+    README.md
+    summary.md
+    some-category ---- assets
+                   |     |--- some-image-1
+                   |     |--- your-image-2
+                   |-- your-article.md
+    ```
+
+  - In `your-article.md`, add contributor, paper or code at head of the article.
 
