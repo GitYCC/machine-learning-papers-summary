@@ -64,16 +64,11 @@ Welcome to contribute this repo. together.
 
 ### Contribution Rules
 
-- Please use pull-request to merge new changes into `master` branch
-
+- Please use pull-request to merge new changes in `feature/xxx` branch into `master` branch
 - Add new article
-
   - In `README.md`, choose or create a category, add new paper item (sorted by years decreasing) and add link `[➤ summary]` to your new article.
-
   - In `summary.md`, add path of your article into sidebar.
-
-  - Please follow this file structure:
-
+  - Please follow this file structure: (ref: https://docsify.now.sh)
     ```
     README.md
     summary.md
@@ -82,6 +77,5 @@ Welcome to contribute this repo. together.
                    |     |--- your-image-2
                    |-- your-article.md
     ```
-
   - In `your-article.md`, add contributor, paper or code at head of the article.
 
