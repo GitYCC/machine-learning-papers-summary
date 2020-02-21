@@ -1,6 +1,10 @@
 # Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015), A. Nguyen et al.
 
+###### contributors: [@GitYCC](https://github.com/GitYCC)
+
 \[[paper](http://arxiv.org/pdf/1412.1897)\] \[[code](https://github.com/Evolving-AI-Lab/fooling)\]
+
+---
 
 **TR;DR:** It is easy to produce images that are completely unrecognizable to humans, but that state-of-the- art DNNs believe to be recognizable objects with 99.99% confidence
 

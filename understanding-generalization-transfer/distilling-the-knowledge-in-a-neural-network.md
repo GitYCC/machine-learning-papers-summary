@@ -1,6 +1,10 @@
 # Distilling the knowledge in a neural network (2015), G. Hinton et al.
 
+###### contributors: [@GitYCC](https://github.com/GitYCC)
+
 \[[paper](http://arxiv.org/pdf/1503.02531)\] 
+
+---
 
 * latency and computational resources are very important in deployment stage
 * cumbersome model

@@ -24,5 +24,5 @@ Reading papers is important because ML/DL/AI is the field of continuous innovati
 
 ### Contributors
 
-- YC Chen \[github: [gitycc](https://github.com/GitYCC), website: [www.ycc.idv.tw](https://www.ycc.idv.tw), email: [ycc.tw.email@gmail.com](mailto:%20ycc.tw.email@gmail.com)\]
+-  [@GitYCC](https://github.com/GitYCC) \[website: [www.ycc.idv.tw](https://www.ycc.idv.tw), email: [ycc.tw.email@gmail.com](mailto:%20ycc.tw.email@gmail.com)\]
 
