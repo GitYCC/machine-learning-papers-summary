@@ -1,6 +1,6 @@
 # Machine Learning Papers Summary
 
-線上閱讀：https://gitycc.github.io/machine-learning-papers-summary/
+Docsify Book: https://gitycc.github.io/machine-learning-papers-summary/
 
 ### Motivation
 
