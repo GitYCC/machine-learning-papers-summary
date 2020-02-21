@@ -20,7 +20,7 @@ Reading papers is important because ML/DL/AI is the field of continuous innovati
 * **Visualizing and understanding convolutional networks** \(2014\), M. Zeiler and R. Fergus \[[paper](http://arxiv.org/pdf/1311.2901)\]
 * **Decaf: A deep convolutional activation feature for generic visual recognition** \(2014\), J. Donahue et al. \[[paper](http://arxiv.org/pdf/1310.1531)\]
 
-### Contributor
+### Contributors
 
-YC Chen \[github: [gitycc](https://github.com/GitYCC), website: [www.ycc.idv.tw](https://www.ycc.idv.tw), email: [ycc.tw.email@gmail.com](mailto:%20ycc.tw.email@gmail.com)\]
+- YC Chen \[github: [gitycc](https://github.com/GitYCC), website: [www.ycc.idv.tw](https://www.ycc.idv.tw), email: [ycc.tw.email@gmail.com](mailto:%20ycc.tw.email@gmail.com)\]
 
