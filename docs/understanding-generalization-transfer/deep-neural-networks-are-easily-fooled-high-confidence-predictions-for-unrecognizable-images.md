@@ -10,7 +10,7 @@
 
 https://youtu.be/M2IebCN9Ht4
 
-[introduction video](https://youtu.be/M2IebCN9Ht4 ':include :type=iframe width=100% height=400px')
+[introduction video](https://www.youtube.com/embed/M2IebCN9Ht4 ':include :type=iframe width=100% height=400px')
 
 **What differences remain between computer and human vision?**
 
