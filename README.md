@@ -1,6 +1,6 @@
 # Machine Learning Papers Summary
 
-Docsify Book: https://gitycc.github.io/machine-learning-papers-summary
+Docsify Book: https://gitycc.github.io/machine-learning-papers-summary  
 Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 ### Motivation
