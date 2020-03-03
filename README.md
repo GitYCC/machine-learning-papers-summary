@@ -42,6 +42,12 @@ Reading papers is important because ML/DL/AI is the field of continuous innovati
 
 
 
+#### Advertising / Commerce
+
+- **DeepFM: A Factorization-Machine based Neural Network for CTR Prediction** (2017), H. Guo et al. \[➤ [summary](advertising-commerce/deepfm.md)\]
+
+
+
 #### Natural Language Processing / RNNs
 
 
