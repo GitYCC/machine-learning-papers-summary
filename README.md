@@ -49,6 +49,8 @@ Reading papers is important because ML/DL/AI is the field of continuous innovati
 
 #### Natural Language Processing
 
+- **Efficient estimation of word representations in vector space** (2013), T. Mikolov et al. \[➤ [summary](nlp/efficient-estimation-of-word-representations-in-vector-space.md)\]
+
 
 
 #### Speech

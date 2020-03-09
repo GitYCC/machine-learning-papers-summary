@@ -1,4 +1,4 @@
-# **DeepFM: A Factorization-Machine based Neural Network for CTR Prediction** (2017), H. Guo et al. 
+# DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (2017), H. Guo et al. 
 
 ###### contributors: [@GitYCC](https://github.com/GitYCC)
 
