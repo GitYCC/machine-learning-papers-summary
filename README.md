@@ -49,6 +49,7 @@ Reading papers is important because ML/DL/AI is the field of continuous innovati
 
 #### Natural Language Processing
 
+- **Distributed representations of words and phrases and their compositionality** (2013), T. Mikolov et al. \[➤ [summary](nlp/distributed-representations-of-words-and-phrases-and-their-compositionality.md)\]
 - **Efficient estimation of word representations in vector space** (2013), T. Mikolov et al. \[➤ [summary](nlp/efficient-estimation-of-word-representations-in-vector-space.md)\]
 
 
