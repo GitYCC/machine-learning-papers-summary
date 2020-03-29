@@ -8,6 +8,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [mhagiwara/100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers)
+- [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers)
 
 ### Content
 
