@@ -3,13 +3,11 @@
 Docsify Book: https://gitycc.github.io/machine-learning-papers-summary  
 Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
-### Motivation
-
-Reading papers is important because ML/DL/AI is the field of continuous innovation. This repository chose most cited ML/DL/AI papers to read and summary.
-
 ### Paper Survey
 
-- [https://github.com/terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- [mhagiwara/100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers)
 
 ### Content
 
