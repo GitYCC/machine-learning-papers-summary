@@ -1,4 +1,4 @@
-Graph Neural Networks: A Review of Methods and Applications (2018), Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun. 
+# Graph Neural Networks: A Review of Methods and Applications (2018), Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun. 
 
 ###### contributors: [@GitYCC](https://github.com/GitYCC)
 
