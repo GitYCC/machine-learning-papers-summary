@@ -48,11 +48,14 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Natural Language Processing
 
-- **A Fast and Accurate Dependency Parser using Neural Networks** (2014), Chen and Manning. [➤ [summary](nlp/a-fast-and-accurate-dependency-parser-using-nural-networks.md)]
+- **A Fast and Accurate Dependency Parser using Neural Networks** (2014), Chen and Manning. \[➤ [summary](nlp/a-fast-and-accurate-dependency-parser-using-nural-networks.md)\]
 - **Glove: Global vectors for word representation** (2014), J. Pennington et al. \[➤ [summary](nlp/GloVe.md)\]
 - **Distributed representations of words and phrases and their compositionality** (2013), T. Mikolov et al. \[➤ [summary](nlp/distributed-representations-of-words-and-phrases-and-their-compositionality.md)\]
 - **Efficient estimation of word representations in vector space** (2013), T. Mikolov et al. \[➤ [summary](nlp/efficient-estimation-of-word-representations-in-vector-space.md)\]
 
+#### Graph Neural Network
+
+- **Graph Neural Networks: A Review of Methods and Applications** (2018), Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun. \[➤ [summary](gnn/graph-neural-networks-a-review-of-methods-and-applications.md)\]
 
 
 #### Speech
