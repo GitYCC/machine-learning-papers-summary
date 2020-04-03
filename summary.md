@@ -4,6 +4,7 @@
     * [Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015)](understanding-generalization-transfer/deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images.md)
     * [How transferable are features in deep neural networks? (2014)](understanding-generalization-transfer/how-transferable-are-features-in-deep-neural-networks.md)
 - Natural Language Processing
+    - [Attention Is All You Need (2017)](nlp/attention-is-all-you-need.md)
     - [A Fast and Accurate Dependency Parser using Neural Networks (2014)](nlp/a-fast-and-accurate-dependency-parser-using-nural-networks.md)
     - [Glove: Global vectors for word representation (2014)](nlp/GloVe.md)
     - [Distributed representations of words and phrases and their compositionality (2013)](nlp/distributed-representations-of-words-and-phrases-and-their-compositionality.md)
