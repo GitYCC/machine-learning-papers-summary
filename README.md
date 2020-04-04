@@ -48,6 +48,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Natural Language Processing
 
+- **Attention Is All You Need** (2017), A. Vaswani et al. \[➤ [summary](nlp/attention-is-all-you-need.md)\]
 - **A Fast and Accurate Dependency Parser using Neural Networks** (2014), Chen and Manning. \[➤ [summary](nlp/a-fast-and-accurate-dependency-parser-using-nural-networks.md)\]
 - **Glove: Global vectors for word representation** (2014), J. Pennington et al. \[➤ [summary](nlp/GloVe.md)\]
 - **Distributed representations of words and phrases and their compositionality** (2013), T. Mikolov et al. \[➤ [summary](nlp/distributed-representations-of-words-and-phrases-and-their-compositionality.md)\]
