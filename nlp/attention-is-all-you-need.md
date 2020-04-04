@@ -188,10 +188,13 @@ class PositionalEncoding(nn.Module):
           return q, attn
   ```
 
+
 - Position-wise Feed-Forward Networks
   $$
   FFN(x) = max(0, xW_1 + b_1 )W_2 + b_2
   $$
+
+
 
 ```python
 class PositionwiseFeedForward(nn.Module):
