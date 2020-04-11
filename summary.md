@@ -14,3 +14,5 @@
 - Advertising / Commerce
     * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (2017)](advertising-commerce/deepfm.md)
 
+- Generative Models
+  - [Density Estimation Using Real NVP (2017)](generative/density-estimation-using-real-nvp.md)
