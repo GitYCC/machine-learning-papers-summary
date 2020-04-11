@@ -30,7 +30,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Generative Models
 
-
+- **Density Estimation Using Real NVP** (2017), J. Sohl-Dickstein et al. \[➤ [summary](generative/density-estimation-using-real-nvp.md)\]
 
 #### Computer Vision
 
