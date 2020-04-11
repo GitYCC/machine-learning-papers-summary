@@ -102,7 +102,7 @@
 
   - Jacobian determine
 
-    - !()[assets/density-estimation-using-real-nvp_07.png]
+    - ![](assets/density-estimation-using-real-nvp_07.png)
     - math tip: the determinant of a triangular matrix can be efficiently computed as the product of its diagonal terms
     - efficiently compute its determinant as $exp[\sum_js(x_{1:d})_j]$
     - Since computing the Jacobian determinant of the coupling layer operation does not involve computing the Jacobian of $s$ or $t$, those functions can be arbitrarily complex. We will make them deep convolutional neural networks (e.g. deep residual networks with batch normalization and weight normalization).
