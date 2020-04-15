@@ -13,6 +13,6 @@
     - [Graph Neural Networks: A Review of Methods and Applications (2018)](gnn/graph-neural-networks-a-review-of-methods-and-applications.md)
 - Advertising / Commerce
     * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (2017)](advertising-commerce/deepfm.md)
-
 - Generative Models
+  - [Glow: Generative Flow with Invertible 1×1 Convolutions (2018)](generative/glow.md)
   - [Density Estimation Using Real NVP (2017)](generative/density-estimation-using-real-nvp.md)

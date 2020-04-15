@@ -30,6 +30,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Generative Models
 
+- **Glow: Generative Flow with Invertible 1×1 Convolutions** (2018), D. P. Kingma et al. \[➤ [summary](generative/glow.md)\]
 - **Density Estimation Using Real NVP** (2017), J. Sohl-Dickstein et al. \[➤ [summary](generative/density-estimation-using-real-nvp.md)\]
 
 #### Computer Vision
