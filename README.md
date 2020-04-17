@@ -62,7 +62,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Speech
 
-
+- **WaveNet: A Generative Model For Raw Audio** (2016), van den Oord, et al. \[➤ [summary](speech/wavenet.md)\]
 
 #### Reinforcement Learning / Robotics
 
