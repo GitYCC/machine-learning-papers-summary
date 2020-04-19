@@ -11,6 +11,7 @@
     - [Efficient estimation of word representations in vector space (2013)](nlp/efficient-estimation-of-word-representations-in-vector-space.md)
 - Graph Neural Network
     - [Graph Neural Networks: A Review of Methods and Applications (2018)](gnn/graph-neural-networks-a-review-of-methods-and-applications.md)
+    - [DeepWalk: Online Learning of Social Representations (2014)](gnn/deep-walk.md)
 - Advertising / Commerce
     * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (2017)](advertising-commerce/deepfm.md)
 - Generative Models

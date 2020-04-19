@@ -58,6 +58,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 #### Graph Neural Network
 
 - **Graph Neural Networks: A Review of Methods and Applications** (2018), Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun. \[➤ [summary](gnn/graph-neural-networks-a-review-of-methods-and-applications.md)\]
+- **DeepWalk: Online Learning of Social Representations** (2014), B. Perozzi et al. \[➤ [summary](gnn/deep-walk.md)\]
 
 
 #### Speech
