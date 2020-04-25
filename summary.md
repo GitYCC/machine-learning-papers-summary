@@ -18,5 +18,6 @@
   - [Glow: Generative Flow with Invertible 1×1 Convolutions (2018)](generative/glow.md)
   - [Density Estimation Using Real NVP (2017)](generative/density-estimation-using-real-nvp.md)
 - Speech
+    - [WaveGlow: A Flow-based Generative Network for Speech Synthesis (2018)](speech/waveglow.md)
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
 

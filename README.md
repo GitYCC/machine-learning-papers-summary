@@ -60,8 +60,9 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 - **Graph Neural Networks: A Review of Methods and Applications** (2018), Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun. \[➤ [summary](gnn/graph-neural-networks-a-review-of-methods-and-applications.md)\]
 - **DeepWalk: Online Learning of Social Representations** (2014), B. Perozzi et al. \[➤ [summary](gnn/deep-walk.md)\]
 
-
 #### Speech
+
+- **WaveGlow: A Flow-based Generative Network for Speech Synthesis** (2018), R. Prenger et al. \[➤ [summary](speech/waveglow.md)\]
 
 - **WaveNet: A Generative Model For Raw Audio** (2016), van den Oord, et al. \[➤ [summary](speech/wavenet.md)\]
 
