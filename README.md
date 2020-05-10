@@ -55,16 +55,22 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 - **Distributed representations of words and phrases and their compositionality** (2013), T. Mikolov et al. \[➤ [summary](nlp/distributed-representations-of-words-and-phrases-and-their-compositionality.md)\]
 - **Efficient estimation of word representations in vector space** (2013), T. Mikolov et al. \[➤ [summary](nlp/efficient-estimation-of-word-representations-in-vector-space.md)\]
 
+
+
 #### Graph Neural Network
 
 - **Graph Neural Networks: A Review of Methods and Applications** (2018), Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun. \[➤ [summary](gnn/graph-neural-networks-a-review-of-methods-and-applications.md)\]
+- **Semi-supervised Classification with Graph Convolutional Networks** (2017), Thomas N. Kipf et al. \[➤ [summary](gnn/gcn.md)\]
 - **DeepWalk: Online Learning of Social Representations** (2014), B. Perozzi et al. \[➤ [summary](gnn/deep-walk.md)\]
+
+
 
 #### Speech
 
 - **WaveGlow: A Flow-based Generative Network for Speech Synthesis** (2018), R. Prenger et al. \[➤ [summary](speech/waveglow.md)\]
-
 - **WaveNet: A Generative Model For Raw Audio** (2016), van den Oord, et al. \[➤ [summary](speech/wavenet.md)\]
+
+
 
 #### Reinforcement Learning / Robotics
 
