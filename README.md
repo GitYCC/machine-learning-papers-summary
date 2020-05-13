@@ -68,6 +68,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 #### Speech
 
 - **WaveGlow: A Flow-based Generative Network for Speech Synthesis** (2018), R. Prenger et al. \[➤ [summary](speech/waveglow.md)\]
+- **Tacotron: Towards End-to-end Speech Synthesis** (2017), Y. Wang et al. \[➤ [summary](speech/tacotron.md)\]
 - **WaveNet: A Generative Model For Raw Audio** (2016), van den Oord, et al. \[➤ [summary](speech/wavenet.md)\]
 
 

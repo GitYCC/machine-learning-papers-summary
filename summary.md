@@ -20,5 +20,6 @@
   - [Density Estimation Using Real NVP (2017)](generative/density-estimation-using-real-nvp.md)
 - Speech
     - [WaveGlow: A Flow-based Generative Network for Speech Synthesis (2018)](speech/waveglow.md)
+    - [Tacotron: Towards End-to-end Speech Synthesis (2017), Y. Wang et al.](speech/tacotron.md)
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
 
