@@ -1,4 +1,4 @@
-# **How transferable are features in deep neural networks?** \(2014\), J. Yosinski et al.
+# How transferable are features in deep neural networks? \(2014\), J. Yosinski et al.
 
 ###### contributors:  [@GitYCC](https://github.com/GitYCC)
 

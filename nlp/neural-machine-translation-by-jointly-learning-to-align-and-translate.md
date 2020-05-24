@@ -8,7 +8,7 @@
 
 ### Prerequisite
 
-**Sequence to Sequence Learning with Neural Networks** (2014), I. Sutskever et al. \[➤ [summary](sequence-to-sequence-learning-with-neural-networks.md)\]
+**Sequence to Sequence Learning with Neural Networks** (2014), I. Sutskever et al. \[➤ [summary](nlp/sequence-to-sequence-learning-with-neural-networks.md)\]
 
 
 

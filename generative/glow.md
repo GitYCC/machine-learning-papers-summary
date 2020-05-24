@@ -8,7 +8,7 @@
 
 **prerequisite**
 
-- [Density Estimation Using Real NVP (2017), J. Sohl-Dickstein et al.](density-estimation-using-real-nvp.md)
+- [Density Estimation Using Real NVP (2017), J. Sohl-Dickstein et al.](generative/density-estimation-using-real-nvp.md)
 
 **model design**
 
