@@ -5,6 +5,7 @@
     * [How transferable are features in deep neural networks? (2014)](understanding-generalization-transfer/how-transferable-are-features-in-deep-neural-networks.md)
 - Natural Language Processing
     - [Attention Is All You Need (2017)](nlp/attention-is-all-you-need.md)
+    - [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling (2016)](nlp/attention-based-recurrent-neural-network-models-for-joint-intent-detection-and-slot-filling.md)
     - [Neural Machine Translation by Jointly Learning to Align and Translate (2016)](nlp/neural-machine-translation-by-jointly-learning-to-align-and-translate.md)
     - [Sequence to Sequence Learning with Neural Networks (2014)](nlp/sequence-to-sequence-learning-with-neural-networks.md)
     - [A Fast and Accurate Dependency Parser using Neural Networks (2014)](nlp/a-fast-and-accurate-dependency-parser-using-nural-networks.md)

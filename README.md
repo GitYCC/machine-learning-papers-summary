@@ -50,6 +50,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 #### Natural Language Processing
 
 - **Attention Is All You Need** (2017), A. Vaswani et al. \[➤ [summary](nlp/attention-is-all-you-need.md)\]
+- **Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling** (2016), Bing Liu et al. \[➤ [summary](nlp/attention-based-recurrent-neural-network-models-for-joint-intent-detection-and-slot-filling.md)\]
 - **Neural Machine Translation by Jointly Learning to Align and Translate** (2016), D. Bahdanau et al. \[➤ [summary](nlp/neural-machine-translation-by-jointly-learning-to-align-and-translate.md)\]
 - **Sequence to Sequence Learning with Neural Networks** (2014), I. Sutskever et al. \[➤ [summary](nlp/sequence-to-sequence-learning-with-neural-networks.md)\]
 - **A Fast and Accurate Dependency Parser using Neural Networks** (2014), Chen and Manning. \[➤ [summary](nlp/a-fast-and-accurate-dependency-parser-using-nural-networks.md)\]
