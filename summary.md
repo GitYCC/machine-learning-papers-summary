@@ -4,6 +4,7 @@
     * [Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015)](understanding-generalization-transfer/deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images.md)
     * [How transferable are features in deep neural networks? (2014)](understanding-generalization-transfer/how-transferable-are-features-in-deep-neural-networks.md)
 - Natural Language Processing
+    - [Deep contextualized word representations (2018)](nlp/elmo.md)
     - [Attention Is All You Need (2017)](nlp/attention-is-all-you-need.md)
     - [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling (2016)](nlp/attention-based-recurrent-neural-network-models-for-joint-intent-detection-and-slot-filling.md)
     - [Neural Machine Translation by Jointly Learning to Align and Translate (2016)](nlp/neural-machine-translation-by-jointly-learning-to-align-and-translate.md)
