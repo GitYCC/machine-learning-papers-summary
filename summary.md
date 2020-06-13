@@ -7,6 +7,7 @@
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](nlp/bert.md)
     - [Deep contextualized word representations (2018)](nlp/elmo.md)
     - [Attention Is All You Need (2017)](nlp/attention-is-all-you-need.md)
+    - [Reading Wikipedia to Answer Open-Domain Questions (2017)](nlp/dr-qa.md)
     - [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling (2016)](nlp/attention-based-recurrent-neural-network-models-for-joint-intent-detection-and-slot-filling.md)
     - [Neural Machine Translation by Jointly Learning to Align and Translate (2016)](nlp/neural-machine-translation-by-jointly-learning-to-align-and-translate.md)
     - [Sequence to Sequence Learning with Neural Networks (2014)](nlp/sequence-to-sequence-learning-with-neural-networks.md)
