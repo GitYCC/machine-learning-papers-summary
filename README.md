@@ -51,6 +51,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (2019), Jacob Devlin et al. \[➤ [summary](nlp/bert.md)\]
 - **Deep contextualized word representations** (2018), C. Clark et al. \[➤ [summary](nlp/elmo.md)\]
+- **Bi-Directional Attention Flow for Machine Comprehension** (2017), Minjoon Seo et al. \[➤ [summary](nlp/BiDAF.md)\]
 - **Attention Is All You Need** (2017), A. Vaswani et al. \[➤ [summary](nlp/attention-is-all-you-need.md)\]
 - **Reading Wikipedia to Answer Open-Domain Questions** (2017), Danqi Chen et al. \[➤ [summary](nlp/dr-qa.md)\]
 - **Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling** (2016), Bing Liu et al. \[➤ [summary](nlp/attention-based-recurrent-neural-network-models-for-joint-intent-detection-and-slot-filling.md)\]
