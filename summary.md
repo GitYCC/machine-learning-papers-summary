@@ -6,6 +6,7 @@
 - Natural Language Processing
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](nlp/bert.md)
     - [Deep contextualized word representations (2018)](nlp/elmo.md)
+    - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension (2018)](nlp/QANet.md)
     - [Bi-Directional Attention Flow for Machine Comprehension (2017)](nlp/BiDAF.md)
     - [Attention Is All You Need (2017)](nlp/attention-is-all-you-need.md)
     - [Reading Wikipedia to Answer Open-Domain Questions (2017)](nlp/dr-qa.md)
