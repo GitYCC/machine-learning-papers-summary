@@ -12,6 +12,7 @@
     - [Reading Wikipedia to Answer Open-Domain Questions (2017)](nlp/dr-qa.md)
     - [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling (2016)](nlp/attention-based-recurrent-neural-network-models-for-joint-intent-detection-and-slot-filling.md)
     - [Neural Machine Translation by Jointly Learning to Align and Translate (2016)](nlp/neural-machine-translation-by-jointly-learning-to-align-and-translate.md)
+    - [Convolutional Neural Networks for Sentence Classification (2014)](nlp/CNN-for-sentence-classification.md)
     - [Sequence to Sequence Learning with Neural Networks (2014)](nlp/sequence-to-sequence-learning-with-neural-networks.md)
     - [A Fast and Accurate Dependency Parser using Neural Networks (2014)](nlp/a-fast-and-accurate-dependency-parser-using-nural-networks.md)
     - [Glove: Global vectors for word representation (2014)](nlp/GloVe.md)

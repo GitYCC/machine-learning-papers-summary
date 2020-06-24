@@ -57,6 +57,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 - **Reading Wikipedia to Answer Open-Domain Questions** (2017), Danqi Chen et al. \[➤ [summary](nlp/dr-qa.md)\]
 - **Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling** (2016), Bing Liu et al. \[➤ [summary](nlp/attention-based-recurrent-neural-network-models-for-joint-intent-detection-and-slot-filling.md)\]
 - **Neural Machine Translation by Jointly Learning to Align and Translate** (2016), D. Bahdanau et al. \[➤ [summary](nlp/neural-machine-translation-by-jointly-learning-to-align-and-translate.md)\]
+- **Convolutional Neural Networks for Sentence Classification** (2014), Yoon Kim. \[➤ [summary](nlp/CNN-for-sentence-classification.md)\]
 - **Sequence to Sequence Learning with Neural Networks** (2014), I. Sutskever et al. \[➤ [summary](nlp/sequence-to-sequence-learning-with-neural-networks.md)\]
 - **A Fast and Accurate Dependency Parser using Neural Networks** (2014), Chen and Manning. \[➤ [summary](nlp/a-fast-and-accurate-dependency-parser-using-nural-networks.md)\]
 - **Glove: Global vectors for word representation** (2014), J. Pennington et al. \[➤ [summary](nlp/GloVe.md)\]
