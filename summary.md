@@ -16,6 +16,7 @@
     - [Sequence to Sequence Learning with Neural Networks (2014)](nlp/sequence-to-sequence-learning-with-neural-networks.md)
     - [A Fast and Accurate Dependency Parser using Neural Networks (2014)](nlp/a-fast-and-accurate-dependency-parser-using-nural-networks.md)
     - [Glove: Global vectors for word representation (2014)](nlp/GloVe.md)
+    - [Distributed Representations of Sentences and Documents (2014)](nlp/doc2vec.md)
     - [Distributed representations of words and phrases and their compositionality (2013)](nlp/distributed-representations-of-words-and-phrases-and-their-compositionality.md)
     - [Efficient estimation of word representations in vector space (2013)](nlp/efficient-estimation-of-word-representations-in-vector-space.md)
 - Graph Neural Network
