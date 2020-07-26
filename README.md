@@ -33,11 +33,11 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 - **Glow: Generative Flow with Invertible 1×1 Convolutions** (2018), D. P. Kingma et al. \[➤ [summary](generative/glow.md)\]
 - **Density Estimation Using Real NVP** (2017), J. Sohl-Dickstein et al. \[➤ [summary](generative/density-estimation-using-real-nvp.md)\]
 
+
+
 #### Computer Vision
 
-
-
-#### Computer Vision: Segmentation / Object Detection
+- **Rich feature hierarchies for accurate object detection and semantic segmentation** (2014), Ross Girshick et al. \[➤ [summary](cv/rcnn.md)\]
 
 
 
