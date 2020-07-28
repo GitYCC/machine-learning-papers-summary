@@ -36,6 +36,6 @@
     - [Tacotron: Towards End-to-end Speech Synthesis (2017)](speech/tacotron.md)
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
 
-- CV
+- Computer Vision
   - [Rich feature hierarchies for accurate object detection and semantic segmentation (2014)](cv/rcnn.md)
 

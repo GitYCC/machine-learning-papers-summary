@@ -59,5 +59,14 @@
     - The performance of using softmax drop from 54.2% to 50.9% mAP. 
     - This performance drop likely arises from a combination of several factors including that the definition of positive examples used in fine-tuning does not emphasize precise localization and the softmax classifier was trained on randomly sampled negative examples rather than on the subset of “hard negatives” used for SVM training. 
 
+**Bounding-box Regression**
 
+- We parameterize the transformation in terms of four functions $d_x(P)$, $d_y(P)$, $d_w(P)$, $d_h(P)$
 
+- After learning these functions, we can transform an input proposal $P$ into a predicted ground-truth box $\hat{G}$ by applying  the transformation: 
+
+  ![](assets/rcnn_06.png)
+
+- Linear transformation from `Pool5` 
+  ![](assets/rcnn_07.png)
+  ![](assets/rcnn_08.png)
