@@ -37,6 +37,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Computer Vision
 
+- **Fast R-CNN** (2015), Ross Girshick. \[➤ [summary](cv/fast-rcnn.md)\]
 - **Rich feature hierarchies for accurate object detection and semantic segmentation** (2014), Ross Girshick et al. \[➤ [summary](cv/rcnn.md)\]
 
 

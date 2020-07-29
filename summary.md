@@ -35,7 +35,7 @@
     - [Natural TTS Synthesis by Conditioning WaveNet On Mel Spectrogram Predictions (2018)](speech/tacotron2.md)
     - [Tacotron: Towards End-to-end Speech Synthesis (2017)](speech/tacotron.md)
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
-
 - Computer Vision
+  - [Fast R-CNN (2015)](cv/fast-rcnn.md)
   - [Rich feature hierarchies for accurate object detection and semantic segmentation (2014)](cv/rcnn.md)
 
