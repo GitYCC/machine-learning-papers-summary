@@ -8,7 +8,7 @@
 
 ### Prerequisite
 
-[Rich feature hierarchies for accurate object detection and semantic segmentation (2014), Ross Girshick et al.](cv/fast_rcnn.md)
+[Rich feature hierarchies for accurate object detection and semantic segmentation (2014), Ross Girshick et al.](cv/rcnn.md)
 
 
 

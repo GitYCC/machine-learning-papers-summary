@@ -37,6 +37,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Computer Vision
 
+- **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2016), Shaoqing Ren et al. \[➤ [summary](cv/faster-rcnn.md)\]
 - **Fast R-CNN** (2015), Ross Girshick. \[➤ [summary](cv/fast-rcnn.md)\]
 - **Rich feature hierarchies for accurate object detection and semantic segmentation** (2014), Ross Girshick et al. \[➤ [summary](cv/rcnn.md)\]
 
