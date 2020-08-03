@@ -36,6 +36,7 @@
     - [Tacotron: Towards End-to-end Speech Synthesis (2017)](speech/tacotron.md)
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
 - Computer Vision
+  - [Mask R-CNN (2018)](cv/mask-rcnn.md)
   - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2016)](cv/faster-rcnn.md)
   - [Fast R-CNN (2015)](cv/fast-rcnn.md)
   - [Rich feature hierarchies for accurate object detection and semantic segmentation (2014)](cv/rcnn.md)
