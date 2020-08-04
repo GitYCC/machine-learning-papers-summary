@@ -1,4 +1,4 @@
-# Mask R-CNN (2018), Shaoqing Ren et al.
+# Mask R-CNN (2018), Kaiming He et al.
 
 ###### contributors: [@GitYCC](https://github.com/GitYCC)
 
