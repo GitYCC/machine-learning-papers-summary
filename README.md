@@ -38,6 +38,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 #### Computer Vision
 
 - **Mask R-CNN** (2018), Kaiming He et al. \[➤ [summary](cv/mask-rcnn.md)\]
+- **YOLOv3: An Incremental Improvement** (2018), Joseph Redmon et al. \[➤ [summary](cv/yolo-v3.md)\]
 - **YOLO9000: Better, Faster, Stronger** (2016), Joseph Redmon et al. \[➤ [summary](cv/yolo-v2.md)\]
 - **You Only Look Once: Unified, Real-Time Object Detection** (2016), Joseph Redmon et al. \[➤ [summary](cv/yolo-v1.md)\]
 - **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2016), Shaoqing Ren et al. \[➤ [summary](cv/faster-rcnn.md)\]
