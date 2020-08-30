@@ -37,6 +37,7 @@
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
 - Computer Vision
   - [Mask R-CNN (2018)](cv/mask-rcnn.md)
+  - [YOLOv3: An Incremental Improvement (2018)](cv/yolo-v3.md)
   - [YOLO9000: Better, Faster, Stronger (2016)](cv/yolo-v2.md)
   - [You Only Look Once: Unified, Real-Time Object Detection (2016)](cv/yolo-v1.md)
   - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2016)](cv/faster-rcnn.md)
