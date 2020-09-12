@@ -37,6 +37,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Computer Vision
 
+- **YOLOv4: Optimal Speed and Accuracy of Object Detection** (2020), A. Bochkovskiy et al. \[➤ [summary](cv/yolo-v4.md)\]
 - **Mask R-CNN** (2018), Kaiming He et al. \[➤ [summary](cv/mask-rcnn.md)\]
 - **YOLOv3: An Incremental Improvement** (2018), Joseph Redmon et al. \[➤ [summary](cv/yolo-v3.md)\]
 - **YOLO9000: Better, Faster, Stronger** (2016), Joseph Redmon et al. \[➤ [summary](cv/yolo-v2.md)\]
