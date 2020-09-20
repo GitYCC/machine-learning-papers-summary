@@ -22,6 +22,8 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Optimization / Training Techniques
 
+- **An overview of gradient descent optimization algorithms** (2017), S. Ruder. \[➤ [summary](optimization-training-techniques/an-overview-of-gradient-descent-optimization-algorithms.md)\]
+
 
 
 #### Unsupervised
