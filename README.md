@@ -46,6 +46,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 - **You Only Look Once: Unified, Real-Time Object Detection** (2016), Joseph Redmon et al. \[➤ [summary](cv/yolo-v1.md)\]
 - **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2016), Shaoqing Ren et al. \[➤ [summary](cv/faster-rcnn.md)\]
 - **Fast R-CNN** (2015), Ross Girshick. \[➤ [summary](cv/fast-rcnn.md)\]
+- **An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition** (2015), Baoguang Shi et al. \[➤ [summary](cv/crnn.md)\]
 - **Rich feature hierarchies for accurate object detection and semantic segmentation** (2014), Ross Girshick et al. \[➤ [summary](cv/rcnn.md)\]
 
 

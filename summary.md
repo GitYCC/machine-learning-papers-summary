@@ -46,5 +46,6 @@
   - [You Only Look Once: Unified, Real-Time Object Detection (2016)](cv/yolo-v1.md)
   - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2016)](cv/faster-rcnn.md)
   - [Fast R-CNN (2015)](cv/fast-rcnn.md)
+  - [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (2015)](cv/crnn.md)
   - [Rich feature hierarchies for accurate object detection and semantic segmentation (2014)](cv/rcnn.md)
 
