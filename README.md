@@ -92,6 +92,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 - **Natural TTS Synthesis by Conditioning WaveNet On Mel Spectrogram Predictions** (2018), J. Shen et al. \[➤ [summary](speech/tacotron2.md)\]
 - **Tacotron: Towards End-to-end Speech Synthesis** (2017), Y. Wang et al. \[➤ [summary](speech/tacotron.md)\]
 - **WaveNet: A Generative Model For Raw Audio** (2016), van den Oord, et al. \[➤ [summary](speech/wavenet.md)\]
+- **Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks** (2006), Alex Graves et al. \[➤ [summary](speech/ctc.md)\]
 
 
 

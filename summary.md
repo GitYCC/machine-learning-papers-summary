@@ -37,6 +37,7 @@
     - [Natural TTS Synthesis by Conditioning WaveNet On Mel Spectrogram Predictions (2018)](speech/tacotron2.md)
     - [Tacotron: Towards End-to-end Speech Synthesis (2017)](speech/tacotron.md)
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
+    - [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (2006)](speech/ctc.md)
 - Computer Vision
   - [YOLOv4: Optimal Speed and Accuracy of Object Detection (2020)](cv/yolo-v4.md)
   - [Mask R-CNN (2018)](cv/mask-rcnn.md)
