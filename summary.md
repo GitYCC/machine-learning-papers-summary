@@ -37,6 +37,7 @@
     - [Natural TTS Synthesis by Conditioning WaveNet On Mel Spectrogram Predictions (2018)](speech/tacotron2.md)
     - [Tacotron: Towards End-to-end Speech Synthesis (2017)](speech/tacotron.md)
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
+    - [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (2006)](speech/ctc.md)
 - Computer Vision
   - [YOLOv4: Optimal Speed and Accuracy of Object Detection (2020)](cv/yolo-v4.md)
   - [Mask R-CNN (2018)](cv/mask-rcnn.md)
@@ -45,5 +46,6 @@
   - [You Only Look Once: Unified, Real-Time Object Detection (2016)](cv/yolo-v1.md)
   - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2016)](cv/faster-rcnn.md)
   - [Fast R-CNN (2015)](cv/fast-rcnn.md)
+  - [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (2015)](cv/crnn.md)
   - [Rich feature hierarchies for accurate object detection and semantic segmentation (2014)](cv/rcnn.md)
 
