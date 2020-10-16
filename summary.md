@@ -4,7 +4,8 @@
     * [Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015)](understanding-generalization-transfer/deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images.md)
     * [How transferable are features in deep neural networks? (2014)](understanding-generalization-transfer/how-transferable-are-features-in-deep-neural-networks.md)
 - Optimization / Training Techniques
-    * [An overview of gradient descent optimization algorithms (2017)](optimization-training-techniques/an-overview-of-gradient-descent-optimization-algorithms.md)
+    - [Large Batch Training of Convolutional Networks (2017)](optimization-training-techniques/lars.md)
+    - [An overview of gradient descent optimization algorithms (2017)](optimization-training-techniques/an-overview-of-gradient-descent-optimization-algorithms.md)
 - Natural Language Processing
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](nlp/bert.md)
     - [Deep contextualized word representations (2018)](nlp/elmo.md)
