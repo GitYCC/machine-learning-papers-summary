@@ -4,6 +4,7 @@
     * [Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015)](understanding-generalization-transfer/deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images.md)
     * [How transferable are features in deep neural networks? (2014)](understanding-generalization-transfer/how-transferable-are-features-in-deep-neural-networks.md)
 - Optimization / Training Techniques
+    - [Decoupled Weight Decay Regularization (2019)](optimization-training-techniques/AdamW.md)
     - [On the Convergence of Adam and Beyond (2018)](optimization-training-techniques/AMSGrad.md)
     - [Large Batch Training of Convolutional Networks (2017)](optimization-training-techniques/lars.md)
     - [An overview of gradient descent optimization algorithms (2017)](optimization-training-techniques/an-overview-of-gradient-descent-optimization-algorithms.md)
