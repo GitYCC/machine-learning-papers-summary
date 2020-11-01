@@ -22,6 +22,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Optimization / Training Techniques
 
+- **Lookahead Optimizer: k steps forward, 1 step back** (2019), Michael R. Zhang et al. \[➤ [summary](optimization-training-techniques/lookahead.md)\]
 - **Decoupled Weight Decay Regularization** (2019), Ilya Loshchilov et al. \[➤ [summary](optimization-training-techniques/AdamW.md)\]
 - **On the Convergence of Adam and Beyond** (2018), Sashank J. Reddi et al. \[➤ [summary](optimization-training-techniques/AMSGrad.md)\]
 - **Large Batch Training of Convolutional Networks** (2017), Yang You. \[➤ [summary](optimization-training-techniques/lars.md)\]
