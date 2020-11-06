@@ -4,6 +4,7 @@
     * [Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015)](understanding-generalization-transfer/deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images.md)
     * [How transferable are features in deep neural networks? (2014)](understanding-generalization-transfer/how-transferable-are-features-in-deep-neural-networks.md)
 - Optimization / Training Techniques
+    - [On the Variance of the Adaptive Learning Rate and Beyond (2020)](optimization-training-techniques/RAdam.md)
     - [Lookahead Optimizer: k steps forward, 1 step back (2019)](optimization-training-techniques/lookahead.md)
     - [Decoupled Weight Decay Regularization (2019)](optimization-training-techniques/AdamW.md)
     - [On the Convergence of Adam and Beyond (2018)](optimization-training-techniques/AMSGrad.md)
