@@ -88,19 +88,21 @@ The contributions of our paper are as follows:
 
   - Segment Embeddings
 
-    - example:
+    - embeddings to be learnt
 
+    - example:
+  
       ```
       [CLS] I like cats [SEP] I like dogs
-        0   0  0    0     0   1  1    1
+      0   0  0    0     0   1  1    1
       ```
 
   - Position Embeddings
 
-    - is not "Position Encoding"
+    - using learned positional embeddings instead of the sinusoidal positional encodings
 
     - example:
-
+  
       ```
       [CLS] I like cats [SEP] I like dogs
         0   1  2    3     4   5  6    7
