@@ -11,6 +11,7 @@
     - [Large Batch Training of Convolutional Networks (2017)](optimization-training-techniques/lars.md)
     - [An overview of gradient descent optimization algorithms (2017)](optimization-training-techniques/an-overview-of-gradient-descent-optimization-algorithms.md)
 - Natural Language Processing
+    - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (2019)](nlp/Transformer-XL.md)
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](nlp/bert.md)
     - [Deep contextualized word representations (2018)](nlp/elmo.md)
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension (2018)](nlp/QANet.md)
