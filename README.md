@@ -65,9 +65,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 #### Natural Language Processing
 
 - **XLNet: Generalized Autoregressive Pretraining for Language Understanding** (2020), Zhilin Yang et al. \[➤ [summary](nlp/XLNet.md)\]
-
 - **Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context** (2019), Zihang Dai et al. \[➤ [summary](nlp/Transformer-XL.md)\]
-
 - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (2019), Jacob Devlin et al. \[➤ [summary](nlp/bert.md)\]
 - **Deep contextualized word representations** (2018), C. Clark et al. \[➤ [summary](nlp/elmo.md)\]
 - **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension** (2018), Adams Wei Yu et al. \[➤ [summary](nlp/QANet.md)\]
