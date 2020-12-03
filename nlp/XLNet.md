@@ -2,7 +2,7 @@
 
 ###### contributors: [@GitYCC](https://github.com/GitYCC)
 
-\[[paper](https://arxiv.org/pdf/1901.02860.pdf)\] \[[pytorch](https://github.com/huggingface/transformers/blob/master/src/transformers/models/transfo_xl/modeling_transfo_xl.py#L734)\]
+\[[paper](https://arxiv.org/abs/1906.08237)\] \[[pytorch](https://github.com/huggingface/transformers/blob/master/src/transformers/models/xlnet/modeling_xlnet.py)\]
 
 ---
 
@@ -79,7 +79,7 @@
   - ![](assets/XLNet_02.png)
   - ![](assets/XLNet_03.png)
 - Partial Prediction: To reduce the optimization difficulty, we choose to only predict the last tokens in a factorization order.
-  - $K=\text{len(labels)}/\text{len(predict_labels)}$
+  - $K=\text{len(labels)} / \text{len(predict_labels)}$
   - the paper suggests $K\sim 6$ (is equal to partial ratio $\sim 14.3\%$ which closes to `[MASK]` ratio in BERT pretraining)
 
 
