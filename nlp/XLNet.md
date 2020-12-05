@@ -79,7 +79,7 @@
   - ![](assets/XLNet_02.png)
   - ![](assets/XLNet_03.png)
 - Partial Prediction: To reduce the optimization difficulty, we choose to only predict the last tokens in a factorization order.
-  - $K=\text{len(labels)} / \text{len(predict_labels)}$
+  - $K=\text{len}(\text{labels}) / \text{len}(\text{predict_labels})$
   - the paper suggests $K\sim 6$ (is equal to partial ratio $\sim 14.3\%$ which closes to `[MASK]` ratio in BERT pretraining)
 
 
