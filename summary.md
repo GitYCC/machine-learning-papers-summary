@@ -14,6 +14,7 @@
     - [XLNet: Generalized Autoregressive Pretraining for Language Understanding (2020)](nlp/XLNet.md)
     - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (2019)](nlp/Transformer-XL.md)
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](nlp/bert.md)
+    - [Improving Language Understanding by Generative Pre-Training (2018)](nlp/GPT.md)
     - [Deep contextualized word representations (2018)](nlp/elmo.md)
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension (2018)](nlp/QANet.md)
     - [Bi-Directional Attention Flow for Machine Comprehension (2017)](nlp/BiDAF.md)
