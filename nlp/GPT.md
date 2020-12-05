@@ -25,7 +25,7 @@
     - We use a multi-layer Transformer. This model applies a multi-headed self-attention operation over the input context tokens followed by position-wise feedforward layers to produce an output distribution over target tokens:
       $$
       h_0=UW_e+W_p \\
-      h_l=\text{transformer_block}(h_{l-1}) \\
+      h_l=\text{transformer-block}(h_{l-1}) \\
       P(u)=\text{softmax}(h_nW_e^T)
       $$
       where $U = (u_{−k},..., u_{−1})$ is the context vector of tokens, $n$ is the number of layers, $W_e$ is the token embedding matrix, and $W_p$ is the position embedding matrix.
