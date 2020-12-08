@@ -13,6 +13,7 @@
 - Natural Language Processing
     - [XLNet: Generalized Autoregressive Pretraining for Language Understanding (2020)](nlp/XLNet.md)
     - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (2019)](nlp/Transformer-XL.md)
+    - [Language Models are Unsupervised Multitask Learners (2019)](nlp/GPT2.md)
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](nlp/bert.md)
     - [Improving Language Understanding by Generative Pre-Training (2018)](nlp/GPT.md)
     - [Deep contextualized word representations (2018)](nlp/elmo.md)
