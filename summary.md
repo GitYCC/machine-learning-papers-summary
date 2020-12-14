@@ -12,6 +12,7 @@
     - [An overview of gradient descent optimization algorithms (2017)](optimization-training-techniques/an-overview-of-gradient-descent-optimization-algorithms.md)
 - Natural Language Processing
     - [Language Models are Few-Shot Learners (2020)](nlp/GPT3.md)
+    - [ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations (2020)](nlp/ALBERT.md)
     - [XLNet: Generalized Autoregressive Pretraining for Language Understanding (2020)](nlp/XLNet.md)
     - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (2019)](nlp/Transformer-XL.md)
     - [Language Models are Unsupervised Multitask Learners (2019)](nlp/GPT2.md)
