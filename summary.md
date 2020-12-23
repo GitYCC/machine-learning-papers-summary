@@ -14,6 +14,7 @@
     - [Language Models are Few-Shot Learners (2020)](nlp/GPT3.md)
     - [ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations (2020)](nlp/ALBERT.md)
     - [XLNet: Generalized Autoregressive Pretraining for Language Understanding (2020)](nlp/XLNet.md)
+    - [RoBERTa: A Robustly Optimized BERT Pretraining Approach (2019)](nlp/RoBERTa.md)
     - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (2019)](nlp/Transformer-XL.md)
     - [Language Models are Unsupervised Multitask Learners (2019)](nlp/GPT2.md)
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](nlp/bert.md)
