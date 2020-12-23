@@ -67,6 +67,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 - **Language Models are Few-Shot Learners** (2020), Tom B. Brown et al. \[➤ [summary](nlp/GPT3.md)\]
 - **ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations** (2020), Zhenzhong Lan et al. \[➤ [summary](nlp/ALBERT.md)\]
 - **XLNet: Generalized Autoregressive Pretraining for Language Understanding** (2020), Zhilin Yang et al. \[➤ [summary](nlp/XLNet.md)\]
+- **RoBERTa: A Robustly Optimized BERT Pretraining Approach** (2019), Yinhan Liu et al. \[➤ [summary](nlp/RoBERTa.md)\]
 - **Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context** (2019), Zihang Dai et al. \[➤ [summary](nlp/Transformer-XL.md)\]
 - **Language Models are Unsupervised Multitask Learners** (2019), Alec Radford et al. \[➤ [summary](nlp/GPT2.md)\]
 - **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** (2019), Jacob Devlin et al. \[➤ [summary](nlp/bert.md)\]
