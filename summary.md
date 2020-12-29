@@ -34,6 +34,7 @@
     - [Distributed representations of words and phrases and their compositionality (2013)](nlp/distributed-representations-of-words-and-phrases-and-their-compositionality.md)
     - [Efficient estimation of word representations in vector space (2013)](nlp/efficient-estimation-of-word-representations-in-vector-space.md)
 - Graph Neural Network
+    - [Handling Missing Data with Graph Representation Learning (2020)](gnn/GRAPE.md)
     - [Graph Neural Networks: A Review of Methods and Applications (2018)](gnn/graph-neural-networks-a-review-of-methods-and-applications.md)
     - [How Powerful Are Graph Neural Networks? (2018)](gnn/gin.md)
     - [Inductive Representation Learning on Large Graphs (2018)](gnn/graph-sage.md)
