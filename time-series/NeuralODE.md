@@ -51,22 +51,22 @@ $$
 
 - If loss $L(\bold{z}(t_1))$, $\frac{d\bold{z}(t)}{dt}=f(\bold{z}(t),t,\theta)$ and $\bold{a}(t)=\frac{dL}{d\bold{z}(t)}$, then 
   $$
-  \bold{a}(t_0)=\bold{a}(t_1)-\int_{t_{1}}^{t_{0}}\bold{a}(t)^T\frac{\part f(\bold{z}(t),t,\theta)}{\part \bold{z}(t)}dt
+  \bold{a}(t_0)=\bold{a}(t_1)-\int_{t_{1}}^{t_{0}}\bold{a}(t)^T\frac{\partial f(\bold{z}(t),t,\theta)}{\partial \bold{z}(t)}dt
   $$
 
   - we could use a black box ODE solver to solve above integral
     $$
-    \bold{a}(t_0)=\text{ODESolve}(\bold{a}(t_1),f=-\bold{a}(t)^T\frac{\part f(\bold{z}(t),t,\theta)}{\part \bold{z}(t)},t_1,t_0,\theta)
+    \bold{a}(t_0)=\text{ODESolve}(\bold{a}(t_1),f=-\bold{a}(t)^T\frac{\partial f(\bold{z}(t),t,\theta)}{\partial \bold{z}(t)},t_1,t_0,\theta)
     $$
 
 - Computing the gradients with respect to the parameters $θ$ requires evaluating a third integral, which depends on both $\bold{z}(t)$ and $\bold{a}(t)$:
   $$
-  \frac{dL}{d\theta}=-\int_{t_1}^{t_0}\bold{a}(t)^T\frac{\part f(\bold{z}(t),t,\theta)}{\part \theta(t)}dt
+  \frac{dL}{d\theta}=-\int_{t_1}^{t_0}\bold{a}(t)^T\frac{\partial f(\bold{z}(t),t,\theta)}{\partial \theta(t)}dt
   $$
 
   - we could use a black box ODE solver to solve above integral
     $$
-    \frac{dL}{d\theta}=\text{ODESolve}(\bold{0}_{|\theta|},f=-\bold{a}(t)^T\frac{\part f(\bold{z}(t),t,\theta)}{\part \theta},t_1,t_0,\theta)
+    \frac{dL}{d\theta}=\text{ODESolve}(\bold{0}_{|\theta|},f=-\bold{a}(t)^T\frac{\partial f(\bold{z}(t),t,\theta)}{\partial \theta},t_1,t_0,\theta)
     $$
 
 ![](assets/NeuralODE_03.png)
