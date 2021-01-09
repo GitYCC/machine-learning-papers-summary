@@ -109,8 +109,14 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 - **Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks** (2006), Alex Graves et al. \[➤ [summary](speech/ctc.md)\]
 
 
-
 #### Reinforcement Learning / Robotics
+
+
+
+#### Time Series
+
+- **Neural Ordinary Differential Equations** (2019), Ricky T. Q. Chen et al. \[➤ [summary](time-series/NeuralODE.md)\]
+
 
 
 
