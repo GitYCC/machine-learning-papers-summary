@@ -62,3 +62,6 @@
   - [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (2015)](cv/crnn.md)
   - [Rich feature hierarchies for accurate object detection and semantic segmentation (2014)](cv/rcnn.md)
 
+- Time Series
+  - [Neural Ordinary Differential Equations (2019)](time-series/NeuralODE.md)
+
