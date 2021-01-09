@@ -91,6 +91,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Graph Neural Network
 
+- **SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check** (2020), Xingyi Cheng et al. \[➤ [summary](gnn/SpellGCN.md)\]
 - **Handling Missing Data with Graph Representation Learning** (2020), Jiaxuan You et al. \[➤ [summary](gnn/GRAPE.md)\]
 - **Graph Neural Networks: A Review of Methods and Applications** (2018), Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun. \[➤ [summary](gnn/graph-neural-networks-a-review-of-methods-and-applications.md)\]
 - **How Powerful Are Graph Neural Networks?** (2018), K. Xu et al. \[➤ [summary](gnn/gin.md)\]

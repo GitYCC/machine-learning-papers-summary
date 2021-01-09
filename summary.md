@@ -34,6 +34,7 @@
     - [Distributed representations of words and phrases and their compositionality (2013)](nlp/distributed-representations-of-words-and-phrases-and-their-compositionality.md)
     - [Efficient estimation of word representations in vector space (2013)](nlp/efficient-estimation-of-word-representations-in-vector-space.md)
 - Graph Neural Network
+    - [SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check (2020)](gnn/SpellGCN.md)
     - [Handling Missing Data with Graph Representation Learning (2020)](gnn/GRAPE.md)
     - [Graph Neural Networks: A Review of Methods and Applications (2018)](gnn/graph-neural-networks-a-review-of-methods-and-applications.md)
     - [How Powerful Are Graph Neural Networks? (2018)](gnn/gin.md)
@@ -61,7 +62,6 @@
   - [Fast R-CNN (2015)](cv/fast-rcnn.md)
   - [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (2015)](cv/crnn.md)
   - [Rich feature hierarchies for accurate object detection and semantic segmentation (2014)](cv/rcnn.md)
-
 - Time Series
   - [Neural Ordinary Differential Equations (2019)](time-series/NeuralODE.md)
 
