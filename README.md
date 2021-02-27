@@ -64,6 +64,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Natural Language Processing
 
+- **Efficient Transformers: A Survey** (2020), Yi Tay et al. \[➤ [summary](nlp/efficient-transformers-a-survey.md)\]
 - **Language Models are Few-Shot Learners** (2020), Tom B. Brown et al. \[➤ [summary](nlp/GPT3.md)\]
 - **ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations** (2020), Zhenzhong Lan et al. \[➤ [summary](nlp/ALBERT.md)\]
 - **XLNet: Generalized Autoregressive Pretraining for Language Understanding** (2020), Zhilin Yang et al. \[➤ [summary](nlp/XLNet.md)\]
