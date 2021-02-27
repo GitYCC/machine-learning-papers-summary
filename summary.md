@@ -1,8 +1,9 @@
 - [Home](/)
 - Understanding / Generalization / Transfer
-    * [Distilling the knowledge in a neural network (2015)](understanding-generalization-transfer/distilling-the-knowledge-in-a-neural-network.md)
-    * [Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015)](understanding-generalization-transfer/deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images.md)
-    * [How transferable are features in deep neural networks? (2014)](understanding-generalization-transfer/how-transferable-are-features-in-deep-neural-networks.md)
+    - [Rethinking Pre-training and Self-training (2020), Barret Zoph et al.](understanding-generalization-transfer/rethinking_pre-training_and_self-training.md)
+    - [Distilling the knowledge in a neural network (2015)](understanding-generalization-transfer/distilling-the-knowledge-in-a-neural-network.md)
+    - [Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015)](understanding-generalization-transfer/deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images.md)
+    - [How transferable are features in deep neural networks? (2014)](understanding-generalization-transfer/how-transferable-are-features-in-deep-neural-networks.md)
 - Optimization / Training Techniques
     - [On the Variance of the Adaptive Learning Rate and Beyond (2020)](optimization-training-techniques/RAdam.md)
     - [Lookahead Optimizer: k steps forward, 1 step back (2019)](optimization-training-techniques/lookahead.md)

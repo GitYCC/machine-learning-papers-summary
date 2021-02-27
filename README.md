@@ -14,6 +14,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Understanding / Generalization / Transfer
 
+- **Rethinking Pre-training and Self-training** (2020), Barret Zoph et al. \[➤ [summary](understanding-generalization-transfer/rethinking_pre-training_and_self-training.md)\]
 - **Distilling the knowledge in a neural network** \(2015\), G. Hinton et al. \[➤ [s](understanding-generalization-transfer/distilling-the-knowledge-in-a-neural-network.md)[ummary](understanding-generalization-transfer/distilling-the-knowledge-in-a-neural-network.md)\]
 - **Deep neural networks are easily fooled: High confidence predictions for unrecognizable images** \(2015\), A. Nguyen et al. \[➤ [summary](understanding-generalization-transfer/deep-neural-networks-are-easily-fooled-high-confidence-predictions-for-unrecognizable-images.md)\]
 - **How transferable are features in deep neural networks?** \(2014\), J. Yosinski et al. \[➤ [summary](understanding-generalization-transfer/how-transferable-are-features-in-deep-neural-networks.md)\]
