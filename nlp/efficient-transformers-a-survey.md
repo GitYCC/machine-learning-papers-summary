@@ -204,10 +204,10 @@ A Taxonomy of Efficient Transformers
   - $K(x, y)= E[\phi(x)^⊤\phi(y)]$
     - $\phi(u)$ is called a random feature map, including random projection
   - $\phi(u)=\frac{h(x)}{\sqrt{m}}(f_1(w_1^⊤u), ..,f_1(w_m^⊤u), ..., f_l(w_1^⊤u), .., f_l(w_m^⊤u))$
-    - $w_1,...,w_m\overset{iid}{\sim}\cal{D}$
-  - Proved: $h(u) = 1$, $l = 2$, $f_1 = sin$, $f_2 = cos$ correspond to shift-invariant kernels, in particular $\cal{D} = \cal{N} (0, I_d )$ leads to the Gaussian kernel $K_{gauss}$
+    - $w_1,...,w_m\overset{iid}{\sim}\mathcal{D}$
+  - Proved: $h(u) = 1$, $l = 2$, $f_1 = sin$, $f_2 = cos$ correspond to shift-invariant kernels, in particular $\mathcal{D} = \mathcal{N} (0, I_d )$ leads to the Gaussian kernel $K_{gauss}$
   - softmax-kernel: $exp(x^⊤y)=exp(∥x∥^2/2 )K_{gauss}(x,y)exp(∥y∥^2/2)$
-    - so, $h(u) = exp(∥u∥^2/2 )$, $l = 2$, $f_1 = sin$, $f_2 = cos$,  $\cal{D} = \cal{N} (0, I_d )$
+    - so, $h(u) = exp(∥u∥^2/2 )$, $l = 2$, $f_1 = sin$, $f_2 = cos$,  $\mathcal{D} = \mathcal{N} (0, I_d )$
   - $AV=Q'(K')^⊤V$ ,   $Q'=\phi(Q)$,   $K'=\phi(K)$
     - ![](assets/efficient-transformers-a-survey_16.png)
 - Orthogonal Random Features: by the standard Gram-Schmidt orthogonalization procedure
