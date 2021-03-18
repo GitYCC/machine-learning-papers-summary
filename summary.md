@@ -56,6 +56,7 @@
     - [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (2006)](speech/ctc.md)
 - Computer Vision
   - [YOLOv4: Optimal Speed and Accuracy of Object Detection (2020)](cv/yolo-v4.md)
+  - [Character Region Awareness for Text Detection (2019)](cv/CRAFT.md)
   - [Mask R-CNN (2018)](cv/mask-rcnn.md)
   - [YOLOv3: An Incremental Improvement (2018)](cv/yolo-v3.md)
   - [YOLO9000: Better, Faster, Stronger (2016)](cv/yolo-v2.md)
