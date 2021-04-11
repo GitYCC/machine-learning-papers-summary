@@ -13,6 +13,7 @@
     - [An overview of gradient descent optimization algorithms (2017)](optimization-training-techniques/an-overview-of-gradient-descent-optimization-algorithms.md)
 - Natural Language Processing
     - [Efficient Transformers: A Survey (2020)](nlp/efficient-transformers-a-survey.md)
+    - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (2020)](nlp/T5.md)
     - [Language Models are Few-Shot Learners (2020)](nlp/GPT3.md)
     - [ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations (2020)](nlp/ALBERT.md)
     - [XLNet: Generalized Autoregressive Pretraining for Language Understanding (2020)](nlp/XLNet.md)
