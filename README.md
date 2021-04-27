@@ -46,6 +46,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 #### Computer Vision
 
 - **YOLOv4: Optimal Speed and Accuracy of Object Detection** (2020), A. Bochkovskiy et al. \[➤ [summary](cv/yolo-v4.md)\]
+- **MnasNet: Platform-Aware Neural Architecture Search for Mobile** (2019), Mingxing Tan et al. \[➤ [summary](cv/MnasNet.md)\]
 - **What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis** (2019), Jeonghun Baek et al. \[➤ [summary](cv/what-is-wrong-with-scene-text-recognition-model-comparisons.md)\]
 - **Character Region Awareness for Text Detection** (2019), Youngmin Baek et al. \[➤ [summary](cv/CRAFT.md)\]
 - **Mask R-CNN** (2018), Kaiming He et al. \[➤ [summary](cv/mask-rcnn.md)\]
