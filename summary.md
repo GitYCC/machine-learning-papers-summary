@@ -58,6 +58,7 @@
 - Computer Vision
   - [YOLOv4: Optimal Speed and Accuracy of Object Detection (2020)](cv/yolo-v4.md)
   - [EfficientDet: Scalable and Efficient Object Detection (2020)](cv/EfficientDet.md)
+  - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (2020)](cv/EfficientNet.md)
   - [MnasNet: Platform-Aware Neural Architecture Search for Mobile (2019)](cv/MnasNet.md)
   - [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis (2019)](cv/what-is-wrong-with-scene-text-recognition-model-comparisons.md)
   - [Character Region Awareness for Text Detection (2019)](cv/CRAFT.md)
