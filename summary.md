@@ -56,6 +56,7 @@
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
     - [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (2006)](speech/ctc.md)
 - Computer Vision
+  - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (2020)](cv/ViT.md)
   - [YOLOv4: Optimal Speed and Accuracy of Object Detection (2020)](cv/yolo-v4.md)
   - [EfficientDet: Scalable and Efficient Object Detection (2020)](cv/EfficientDet.md)
   - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (2020)](cv/EfficientNet.md)
