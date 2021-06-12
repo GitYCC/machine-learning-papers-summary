@@ -45,6 +45,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Computer Vision
 
+- **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** (2021), Ze Liu et al. \[➤ [summary](cv/Swin.md)\]
 - **Training data-efficient image transformers & distillation through attention** (2020), Hugo Touvron et al. \[➤ [summary](cv/DeiT.md)\]
 - **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** (2020), Alexey Dosovitskiy et al. \[➤ [summary](cv/ViT.md)\]
 - **YOLOv4: Optimal Speed and Accuracy of Object Detection** (2020), A. Bochkovskiy et al. \[➤ [summary](cv/yolo-v4.md)\]
