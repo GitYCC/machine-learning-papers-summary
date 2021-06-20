@@ -56,6 +56,7 @@
     - [WaveNet: A Generative Model For Raw Audio (2016)](speech/wavenet.md)
     - [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (2006)](speech/ctc.md)
 - Computer Vision
+  -  [MLP-Mixer: An all-MLP Architecture for Vision (2021)](cv/MLP-Mixer.md)
   - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (2021)](cv/Swin.md)
   - [Training data-efficient image transformers & distillation through attention (2020)](cv/DeiT.md)
   - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (2020)](cv/ViT.md)
