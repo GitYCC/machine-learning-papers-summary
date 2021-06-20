@@ -45,6 +45,7 @@ Github Repo: https://github.com/GitYCC/machine-learning-papers-summary
 
 #### Computer Vision
 
+- **Pay Attention to MLPs** (2021), Hanxiao Liu et al. \[➤ [summary](cv/gMLP.md)\]
 - **MLP-Mixer: An all-MLP Architecture for Vision** (2021), Ilya Tolstikhin et al. \[➤ [summary](cv/MLP-Mixer.md)\]
 - **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** (2021), Ze Liu et al. \[➤ [summary](cv/Swin.md)\]
 - **Training data-efficient image transformers & distillation through attention** (2020), Hugo Touvron et al. \[➤ [summary](cv/DeiT.md)\]
